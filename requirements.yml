@@ -1,0 +1,5 @@
+---
+collections:
+  - name: https://github.com/dimsunv/my_collections.git
+    type: git
+    version: create_file
